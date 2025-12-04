@@ -1,0 +1,5 @@
+{
+  "name": "Restaurant Bill Payment System",
+  "description": "An intuitive and visually appealing web application to manage restaurant bills. Add items from a menu, adjust quantities, calculate tax and tip, and see the final total in real-time.",
+  "requestFramePermissions": []
+}
